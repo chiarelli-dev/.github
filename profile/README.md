@@ -5,12 +5,12 @@
 <br /><br />
 
 [![Site](https://img.shields.io/badge/Site-chiarelli.dev-1b4332?style=for-the-badge)](https://chiarelli.dev)
-[![Email](https://img.shields.io/badge/Email-contato%40chiarelli.dev-0f1a14?style=for-the-badge)](mailto:contato@chiarelli.dev)
+[![Email](https://img.shields.io/badge/Email-leonardo%40chiarelli.dev-0f1a14?style=for-the-badge)](mailto:leonardo@chiarelli.dev)
 [![Diagnóstico](https://img.shields.io/badge/Diagn%C3%B3stico_gratuito-chiarelli.dev%2Fdiagnostico-d1fae5?style=for-the-badge&labelColor=1b4332)](https://chiarelli.dev/diagnostico)
 
 </div>
 
-Construímos software que trabalha pelo cliente: automações que eliminam trabalho manual, agentes de IA que executam tarefas reais dentro da operação e aplicações feitas sob medida para o processo de cada empresa. Escopo fixo, prazo fixo, preço fixo.
+**Back-office autônomo para PMEs com ERP.** Tiramos o trabalho manual repetitivo da operação com software sob medida: automações de processos, agentes de IA que executam tarefas reais e aplicações internas feitas para o processo de cada empresa. Escopo, prazo e preço fechados antes de começar.
 
 ## O que entregamos
 
@@ -20,6 +20,11 @@ Construímos software que trabalha pelo cliente: automações que eliminam traba
 | **Agente de IA** | Assistente que executa tarefas reais na operação, com validação e telemetria | 3 a 5 semanas |
 | **Aplicação interna** | Ferramenta construída para o processo da empresa, sem licença por usuário | 4 a 6 semanas |
 | **Produto digital** | Do escopo ao deploy, pronto para os primeiros usuários | 8 a 12 semanas |
+
+## Produtos
+
+- **[Conciliador](https://conciliador.chiarelli.dev)**: conciliação bancária que confere extratos com os relatórios do ERP e mostra só as diferenças, com processamento local.
+- **Connecting**: atendimento pelo WhatsApp, em pré-lançamento.
 
 ## Como trabalhamos
 
