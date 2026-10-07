@@ -19,7 +19,7 @@
 | **Automação de processos** | Trabalho manual repetitivo vira fluxo automático, integrado aos sistemas que a empresa já usa | 2 a 4 semanas |
 | **Agente de IA** | Assistente que executa tarefas reais na operação, com validação e telemetria | 3 a 5 semanas |
 | **Aplicação interna** | Ferramenta construída para o processo da empresa, sem licença por usuário | 4 a 6 semanas |
-| **Produto digital** | Do escopo ao deploy, pronto para os primeiros usuários | 8 a 12 semanas |
+| **Software sob medida** | Sistema completo para a operação, do escopo ao deploy, pronto para os primeiros usuários | 8 a 12 semanas |
 
 ## Produtos
 
